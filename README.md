@@ -12,3 +12,8 @@ An end-to-end Data Science & IoT pipeline that captures live physical world even
 * **Languages:** Python, C++
 * **Frameworks & Libraries:** Flask, Streamlit, Pandas
 * **Hardware Core:** ESP8266 WiFi Module
+
+* ## 🎥 Project Working Demo Video
+https://github.com/user-attachments/assets/628c5df1-4de5-49f8-91ec-d4cf0e58074d
+
+
